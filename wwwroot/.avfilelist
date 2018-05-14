@@ -1,0 +1,28 @@
+### !!! PLEASE DON'T DELETE THIS FILE !!!
+###
+### !!! NON CANCELLARE  QUESTO FILE !!!
+###
+authorize.php
+modules
+index.php
+update.php
+xmlrpc.php
+misc
+scripts
+INSTALL.txt
+INSTALL.mysql.txt
+COPYRIGHT.txt
+profiles
+sites
+LICENSE.txt
+robots.txt
+README.txt
+web.config
+INSTALL.pgsql.txt
+CHANGELOG.txt
+themes
+includes
+MAINTAINERS.txt
+INSTALL.sqlite.txt
+UPGRADE.txt
+cron.php
